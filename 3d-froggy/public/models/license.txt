@@ -1,0 +1,11 @@
+Model Information:
+* title:	Frog Cake
+* source:	https://sketchfab.com/3d-models/frog-cake-70154629c8bc432ba4e3aa68851ad8f4
+* author:	Citrus (https://sketchfab.com/citrusfriendd)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Frog Cake" (https://sketchfab.com/3d-models/frog-cake-70154629c8bc432ba4e3aa68851ad8f4) by Citrus (https://sketchfab.com/citrusfriendd) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,33 @@
+#root {
+  width: 100vw;
+  height: 100vh;
+  background: rgb(53,88,115);
+  background: linear-gradient(360deg, rgba(53,88,115,1) 21%, rgba(105,129,191,1) 86%);
+}
+header{
+  padding-top: 100px;
+  display: flex;
+  max-width: 400px;
+}
+h1{
+  color: rgba(240, 164, 230, 0.829);
+  padding-top: 100px;
+  max-width: 400px;
+}
+button{
+  background-color: transparent;
+  padding: 15px;
+  border: 2px solid white;
+  border-radius: 10px;
+  color: white;
+  transition: 1s;
+}
+button:hover{
+  background-color: rgb(211, 162, 208);
+}
+div{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
